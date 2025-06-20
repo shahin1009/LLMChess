@@ -8,3 +8,8 @@ The system interprets high-level strategic instructions and natural language com
 
 
 <img src="GiuocoPiano-ezgif.com-video-to-gif-converter.gif" alt="Astar-map1" width="500">
+
+<img src="LondonSystem-ezgif.com-video-to-gif-converter.gif" alt="Astar-map1" width="500">
+
+<img src="Nimzo-LarsenAttack-ezgif.com-video-to-gif-converter.gif" alt="Astar-map1" width="500">
+
